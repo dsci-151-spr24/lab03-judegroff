@@ -356,6 +356,8 @@ nobel_living_science %>%
 
 ```
 
+The laureates are most commonly from Germany, with Japan being a close second.
+
 🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards and review the md document on GitHub to make sure you're happy with the final state of your work.*
 
 Now go back through your write up to make sure you've answered all questions and all of your R chunks are properly labelled.
