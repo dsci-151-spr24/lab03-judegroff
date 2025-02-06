@@ -213,7 +213,7 @@ You don't have to switch at each exercise, you can find your a cadence that work
 
 There are some observations in this dataset that we will exclude from our analysis to match the Buzzfeed results.
 
-There are `r nrow(nobel)` rows and `r ncol(nobel)` columns in the nobel dataset. Each row represents a nobel winner.
+***There are `r nrow(nobel)` rows and `r ncol(nobel)` columns in the nobel dataset. Each row represents a nobel winner.***
 
 2.  Create a new data frame called `nobel_living` that filters for
 
